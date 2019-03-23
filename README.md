@@ -1,6 +1,6 @@
 # My-Amazon
 
-[My Amazon Link](https://nedak.github.io/Team4/ "Team4 Link")
+[My Amazon Link](https://ndennis88.github.io/My-Amazon/ "My Amazon")
 
 ## Description
 This application gives users access to Top Rated coffee shops within the greater Sacramento Area. The ratings reflect user 'non-negotiables,' such as Wifi/work space, variety of food and beverage, and parking convenience.
