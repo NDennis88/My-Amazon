@@ -1,16 +1,15 @@
 # My-Amazon
 
-[My Amazon Link](https://ndennis88.github.io/My-Amazon/ "My Amazon")
 
 ## Description
-This application gives users access to Top Rated coffee shops within the greater Sacramento Area. The ratings reflect user 'non-negotiables,' such as Wifi/work space, variety of food and beverage, and parking convenience.
+This application presents the customer interface using a command line based storefront using npm inquirer package and the MySQL database backend together with the npm mysql package. 
 
-Once users search by zip code, they are matched with a list of 10 coffee shops, an interactive map, and previous reviews from the Collective database. Users are encouraged to provide feedback each time they visit a new location. This data is linked to Firebase for persistent data storage, sorted, and displayed in the Review Section using Chart.js.
 
-Each review strengthens the Collective (ratings), providing users a more streamlined list of coffee shops&work spaces in the future. 
+## MySql Database 
+To run this application, you need to install the MySQL database on your device. If you do not have this application installed, view the package.json page to install the version you need for your operating system. Once MySQL is intalled, you can create the Bamazon database and the products table with the SQL code found in schema.sql. Run this code inside your MySQL Workbench to populate the database, then you will be ready to proceed with running the Bamazon customer interface.
 
-Development goals for the app include: creating a user login, implementing a communication board for users to display meet-ups or professional mixers, and extending the beta roll-out to other metropolitan cities. 
- 
+## Customer Interface
+The customer interface allows the user to view the current inventory of store items: item IDs, product name and price. The user is then able to purchase one of the existing items by entering the item ID and the quantity wanted. If the item quantity is in stock, the user's order will be fulfilled. The total purchase price is then displayed and the product quantity will be updated in the store's database. If the desired quantity is not available, the user will be informed that the product is not in stock.
 
 ## Sample View
 
