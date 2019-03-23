@@ -14,30 +14,14 @@ Development goals for the app include: creating a user login, implementing a com
 
 ## Sample View
 
-![Coffee Collective App Screenshot](/assets/images/screenshot.jpg/)
-
-
-## Library 
-
-+ Font Awesome
-+ Materialize
-+ ScrollSpy.js
+![My Amazon Screenshot](/assets/images/screenshot.png/)
 
 
 ## Technology
 
-+ Chart.js
-+ Javascript
-+ jQuery
-+ HTML5
-+ CSS3
-+ Firebase
++ Node
++ MySql
++ Inquirer
 
-
-## API List
-
-+ Google Custom Search
-+ Google Maps
-+ MapQuest
 
 
